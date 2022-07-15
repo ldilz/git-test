@@ -1,1 +1,1 @@
-This is a new text
+This is the readme text
